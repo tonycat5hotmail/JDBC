@@ -36,5 +36,10 @@ public class Exam {
 		ev.enterMainMenu();
 
 	}
+	
+	public void get(){
+		
+		System.out.println("hhaha");
+	}
 
 }
