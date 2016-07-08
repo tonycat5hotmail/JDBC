@@ -27,6 +27,8 @@ public class Exam {
 		int n=10;
 		int y=10;
 		int x=10;
+		int k=	add(m,n);
+		
 		/*while(true){
 			char key = ev.getUserAction();
 			System.out.println(key);
@@ -35,6 +37,11 @@ public class Exam {
 		
 		ev.enterMainMenu();
 
+	}
+	
+	public int add(int a,int b){
+		
+		return a+b;
 	}
 
 }
