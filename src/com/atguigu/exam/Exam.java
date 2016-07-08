@@ -26,6 +26,7 @@ public class Exam {
 		int m=10;
 		int n=10;
 		int y=10;
+		int x=10;
 		/*while(true){
 			char key = ev.getUserAction();
 			System.out.println(key);
