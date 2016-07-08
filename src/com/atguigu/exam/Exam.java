@@ -23,6 +23,7 @@ public class Exam {
 		System.out.println(item);*/
 		
 		ExamView ev = new ExamView();
+		int a=10;
 		/*while(true){
 			char key = ev.getUserAction();
 			System.out.println(key);
