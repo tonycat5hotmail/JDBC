@@ -25,6 +25,7 @@ public class Exam {
 		ExamView ev = new ExamView();
 		int m=10;
 		int n=10;
+		int y=10;
 		/*while(true){
 			char key = ev.getUserAction();
 			System.out.println(key);
